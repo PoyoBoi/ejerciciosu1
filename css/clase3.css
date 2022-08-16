@@ -1,0 +1,51 @@
+h1{
+    background-color: red;
+    color: white;
+    font-family: Arial;
+}
+p{
+    background-color: red;
+    color: white;
+    font-family: Arial;
+}
+
+/*p{
+    background-color: blue;
+}*/
+
+/*#cod0002{
+    background-color: red;
+    color: white;
+    font-family: Arial;
+}*/
+
+.azul:hover{
+    background-color: blue;
+}
+
+#btn{
+    border: 0px solid transparent;
+    width: 300px;
+    height: 50px;
+}
+
+#btn:hover{
+    background-color: teal;
+}
+
+#btn:focus{
+    background-color: red;
+}
+
+.enlaces{
+    color: black;
+}
+.enlaces:hover{
+    color:yellow;
+}
+.enlaces:active{
+    color: blue;
+}
+.enlaces:visited{
+    color: orange;
+}
