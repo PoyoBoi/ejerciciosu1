@@ -24,9 +24,10 @@ p{
 }
 
 #btn{
-    border: 0px solid transparent;
+    border: 0px solid transparent; 
     width: 300px;
     height: 50px;
+    color: red
 }
 
 #btn:hover{
